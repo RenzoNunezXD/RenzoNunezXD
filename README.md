@@ -1,8 +1,5 @@
-Hola Soy Renzo Nuñez
-Programador nivel basico en videojuegos, Web
-y Creador de contenido en Youtube
+-=[Proyectos]=-
 
-<!---
-RenzoNunezXD/RenzoNunezXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola y bienvenido/a a mi Perfil de Git Hub, subo proyectos de VideoJuegos
+Los proyectos son 100% Indie desarrollados en Unity, soy desarrollador Autodidacta
+Tengo conocimientos basicos en C#, tambien en Modelaje 3D con Blender y un poco de experiencia programando en HTML y CSS desarrollo web
